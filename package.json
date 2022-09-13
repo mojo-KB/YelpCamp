@@ -1,0 +1,15 @@
+{
+  "name": "YelpCamp",
+  "version": "1.0.0",
+  "description": "Create yelpcamp website from udemy",
+  "main": "index.js",
+  "repository": "https://github.com/mojo-KB/YelpCamp.git",
+  "author": "mojo-KB <56409448+mojo-KB@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
